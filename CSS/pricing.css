@@ -11,3 +11,9 @@
   background-color: #ffffff;
   color: #0A1E68;
 }
+.box{
+  border-color: #ACC63B;
+  color: #0A1E68;
+  box-shadow: 0px 0px 20px -10px;
+  border-radius: 10px;
+}
